@@ -8,7 +8,7 @@ let dados = [
     {
         titulo : "I'm doing good!",
         descricao : "It's alright?! Fine. So you can enjoy your happiest moments. A dio. Come other day!",
-        link : "https://www.youtube.com/watch?v=omsSQLFzNec",
+        link : "https://www.youtube.com/watch?v=xQLWKq6qOqc",
         tags: "ok okay good"
     }
 ];
